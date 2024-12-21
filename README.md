@@ -1,4 +1,4 @@
-### study-of-basic-gates
+### Ex.1 study-of-basic-gates
 # Date: 26.09.2024
 **AIM:** 
 
